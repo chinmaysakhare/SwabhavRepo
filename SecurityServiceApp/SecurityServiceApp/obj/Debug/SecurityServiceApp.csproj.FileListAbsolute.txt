@@ -1,0 +1,7 @@
+E:\Swabhav\C#\OOP\SecurityServiceApp\SecurityServiceApp\bin\Debug\SecurityServiceApp.exe.config
+E:\Swabhav\C#\OOP\SecurityServiceApp\SecurityServiceApp\bin\Debug\SecurityServiceApp.exe
+E:\Swabhav\C#\OOP\SecurityServiceApp\SecurityServiceApp\bin\Debug\SecurityServiceApp.pdb
+E:\Swabhav\C#\OOP\SecurityServiceApp\SecurityServiceApp\obj\Debug\SecurityServiceApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\SecurityServiceApp\SecurityServiceApp\obj\Debug\SecurityServiceApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\SecurityServiceApp\SecurityServiceApp\obj\Debug\SecurityServiceApp.exe
+E:\Swabhav\C#\OOP\SecurityServiceApp\SecurityServiceApp\obj\Debug\SecurityServiceApp.pdb

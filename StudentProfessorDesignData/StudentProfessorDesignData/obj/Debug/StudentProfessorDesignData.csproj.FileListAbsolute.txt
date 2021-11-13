@@ -1,0 +1,14 @@
+D:\swabhavTech\OPP\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\StudentProfessorDesignData.exe.config
+D:\swabhavTech\OPP\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\StudentProfessorDesignData.exe
+D:\swabhavTech\OPP\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\StudentProfessorDesignData.pdb
+D:\swabhavTech\OPP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.exe
+D:\swabhavTech\OPP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.pdb
+E:\Swabhav\C#\OOP\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\StudentProfessorDesignData.exe.config
+E:\Swabhav\C#\OOP\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\StudentProfessorDesignData.exe
+E:\Swabhav\C#\OOP\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\StudentProfessorDesignData.pdb
+E:\Swabhav\C#\OOP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.exe
+E:\Swabhav\C#\OOP\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\StudentProfessorDesignData.pdb

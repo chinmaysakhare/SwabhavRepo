@@ -1,0 +1,7 @@
+E:\Swabhav\23.10.21_\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+E:\Swabhav\23.10.21_\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+E:\Swabhav\23.10.21_\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+E:\Swabhav\23.10.21_\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.AssemblyReference.cache
+E:\Swabhav\23.10.21_\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\23.10.21_\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+E:\Swabhav\23.10.21_\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb

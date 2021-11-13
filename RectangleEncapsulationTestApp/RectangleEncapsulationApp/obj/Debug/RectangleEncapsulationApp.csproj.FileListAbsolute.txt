@@ -1,0 +1,7 @@
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\RectangleEncapsulationTestApp\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.exe.config
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\RectangleEncapsulationTestApp\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\RectangleEncapsulationTestApp\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.pdb
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\RectangleEncapsulationTestApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.csproj.AssemblyReference.cache
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\RectangleEncapsulationTestApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\RectangleEncapsulationTestApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\RectangleEncapsulationTestApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.pdb

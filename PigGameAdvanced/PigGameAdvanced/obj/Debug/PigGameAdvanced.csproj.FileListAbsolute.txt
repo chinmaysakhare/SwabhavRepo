@@ -1,0 +1,7 @@
+C:\Users\Chinmay\source\repos\PigGameAdvanced\PigGameAdvanced\bin\Debug\PigGameAdvanced.exe.config
+C:\Users\Chinmay\source\repos\PigGameAdvanced\PigGameAdvanced\bin\Debug\PigGameAdvanced.exe
+C:\Users\Chinmay\source\repos\PigGameAdvanced\PigGameAdvanced\bin\Debug\PigGameAdvanced.pdb
+C:\Users\Chinmay\source\repos\PigGameAdvanced\PigGameAdvanced\obj\Debug\PigGameAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\PigGameAdvanced\PigGameAdvanced\obj\Debug\PigGameAdvanced.exe
+C:\Users\Chinmay\source\repos\PigGameAdvanced\PigGameAdvanced\obj\Debug\PigGameAdvanced.pdb
+C:\Users\Chinmay\source\repos\PigGameAdvanced\PigGameAdvanced\obj\Debug\PigGameAdvanced.csproj.AssemblyReference.cache

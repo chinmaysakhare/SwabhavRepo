@@ -1,0 +1,7 @@
+E:\Swabhav\C#\OOP\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+E:\Swabhav\C#\OOP\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+E:\Swabhav\C#\OOP\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+E:\Swabhav\C#\OOP\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+E:\Swabhav\C#\OOP\ReadFile\ReadFile\obj\Debug\ReadFile.pdb

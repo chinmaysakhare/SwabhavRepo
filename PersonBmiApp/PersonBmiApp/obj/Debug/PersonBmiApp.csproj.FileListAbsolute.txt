@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\PersonBmiApp\PersonBmiApp\bin\Debug\PersonBmiApp.exe.config
+C:\Users\Chinmay\source\repos\PersonBmiApp\PersonBmiApp\bin\Debug\PersonBmiApp.exe
+C:\Users\Chinmay\source\repos\PersonBmiApp\PersonBmiApp\bin\Debug\PersonBmiApp.pdb
+C:\Users\Chinmay\source\repos\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.exe
+C:\Users\Chinmay\source\repos\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.pdb
+E:\Swabhav\C#\OOP\PersonBmiApp\PersonBmiApp\bin\Debug\PersonBmiApp.exe.config
+E:\Swabhav\C#\OOP\PersonBmiApp\PersonBmiApp\bin\Debug\PersonBmiApp.exe
+E:\Swabhav\C#\OOP\PersonBmiApp\PersonBmiApp\bin\Debug\PersonBmiApp.pdb
+E:\Swabhav\C#\OOP\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.exe
+E:\Swabhav\C#\OOP\PersonBmiApp\PersonBmiApp\obj\Debug\PersonBmiApp.pdb

@@ -1,0 +1,7 @@
+E:\Swabhav\C#\OOP\GenericDictonaryApp\GenericDictonaryApp\bin\Debug\GenericDictonaryApp.exe.config
+E:\Swabhav\C#\OOP\GenericDictonaryApp\GenericDictonaryApp\bin\Debug\GenericDictonaryApp.exe
+E:\Swabhav\C#\OOP\GenericDictonaryApp\GenericDictonaryApp\bin\Debug\GenericDictonaryApp.pdb
+E:\Swabhav\C#\OOP\GenericDictonaryApp\GenericDictonaryApp\obj\Debug\GenericDictonaryApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\GenericDictonaryApp\GenericDictonaryApp\obj\Debug\GenericDictonaryApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\GenericDictonaryApp\GenericDictonaryApp\obj\Debug\GenericDictonaryApp.exe
+E:\Swabhav\C#\OOP\GenericDictonaryApp\GenericDictonaryApp\obj\Debug\GenericDictonaryApp.pdb

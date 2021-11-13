@@ -1,0 +1,7 @@
+E:\Swabhav\21.10.21_Enums\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.exe.config
+E:\Swabhav\21.10.21_Enums\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.exe
+E:\Swabhav\21.10.21_Enums\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.pdb
+E:\Swabhav\21.10.21_Enums\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.csproj.AssemblyReference.cache
+E:\Swabhav\21.10.21_Enums\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\21.10.21_Enums\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.exe
+E:\Swabhav\21.10.21_Enums\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.pdb

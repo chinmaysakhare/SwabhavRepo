@@ -1,0 +1,7 @@
+E:\Swabhav\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe.config
+E:\Swabhav\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe
+E:\Swabhav\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\MyUnitTestApp.pdb
+E:\Swabhav\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.exe
+E:\Swabhav\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.pdb

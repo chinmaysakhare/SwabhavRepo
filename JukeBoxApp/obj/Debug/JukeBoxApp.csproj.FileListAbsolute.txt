@@ -1,0 +1,14 @@
+C:\SwabhavTech\C#\OOP\JukeBoxApp\bin\Debug\JukeBoxApp.exe.config
+C:\SwabhavTech\C#\OOP\JukeBoxApp\bin\Debug\JukeBoxApp.exe
+C:\SwabhavTech\C#\OOP\JukeBoxApp\bin\Debug\JukeBoxApp.pdb
+C:\SwabhavTech\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.csproj.AssemblyReference.cache
+C:\SwabhavTech\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.csproj.CoreCompileInputs.cache
+C:\SwabhavTech\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.exe
+C:\SwabhavTech\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.pdb
+E:\Swabhav\C#\OOP\JukeBoxApp\bin\Debug\JukeBoxApp.exe.config
+E:\Swabhav\C#\OOP\JukeBoxApp\bin\Debug\JukeBoxApp.exe
+E:\Swabhav\C#\OOP\JukeBoxApp\bin\Debug\JukeBoxApp.pdb
+E:\Swabhav\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.exe
+E:\Swabhav\C#\OOP\JukeBoxApp\obj\Debug\JukeBoxApp.pdb

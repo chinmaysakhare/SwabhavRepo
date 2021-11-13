@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountCustomExceptionApp", "AccountCustomExceptionApp\AccountCustomExceptionApp.csproj", "{B8841F52-8ACD-40A8-AC3B-78B632271525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8841F52-8ACD-40A8-AC3B-78B632271525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8841F52-8ACD-40A8-AC3B-78B632271525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8841F52-8ACD-40A8-AC3B-78B632271525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8841F52-8ACD-40A8-AC3B-78B632271525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26C4AA4-3987-42B0-96C9-F2E613991FB8}
+	EndGlobalSection
+EndGlobal

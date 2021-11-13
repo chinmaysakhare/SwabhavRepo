@@ -1,0 +1,6 @@
+C:\Users\Chinmay\Desktop\Swabhav_Tech\08.10.2021\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Chinmay\Desktop\Swabhav_Tech\08.10.2021\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\08.10.2021\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Chinmay\Desktop\Swabhav_Tech\08.10.2021\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\Desktop\Swabhav_Tech\08.10.2021\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\08.10.2021\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

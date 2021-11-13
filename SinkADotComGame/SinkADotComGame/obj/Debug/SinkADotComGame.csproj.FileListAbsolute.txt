@@ -1,0 +1,14 @@
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\SinkADotComGame\SinkADotComGame\bin\Debug\SinkADotComGame.exe.config
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\SinkADotComGame\SinkADotComGame\bin\Debug\SinkADotComGame.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\SinkADotComGame\SinkADotComGame\bin\Debug\SinkADotComGame.pdb
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.pdb
+C:\Users\Chinmay\Desktop\Swabhav_Tech\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\SinkADotComGame\SinkADotComGame\bin\Debug\SinkADotComGame.exe.config
+E:\Swabhav\C#\OOP\SinkADotComGame\SinkADotComGame\bin\Debug\SinkADotComGame.exe
+E:\Swabhav\C#\OOP\SinkADotComGame\SinkADotComGame\bin\Debug\SinkADotComGame.pdb
+E:\Swabhav\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.exe
+E:\Swabhav\C#\OOP\SinkADotComGame\SinkADotComGame\obj\Debug\SinkADotComGame.pdb

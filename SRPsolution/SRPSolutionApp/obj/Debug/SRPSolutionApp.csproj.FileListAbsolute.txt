@@ -1,0 +1,7 @@
+E:\Swabhav\C#\OOP\SRPsolution\SRPSolutionApp\bin\Debug\SRPSolutionApp.exe.config
+E:\Swabhav\C#\OOP\SRPsolution\SRPSolutionApp\bin\Debug\SRPSolutionApp.exe
+E:\Swabhav\C#\OOP\SRPsolution\SRPSolutionApp\bin\Debug\SRPSolutionApp.pdb
+E:\Swabhav\C#\OOP\SRPsolution\SRPSolutionApp\obj\Debug\SRPSolutionApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\SRPsolution\SRPSolutionApp\obj\Debug\SRPSolutionApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\SRPsolution\SRPSolutionApp\obj\Debug\SRPSolutionApp.exe
+E:\Swabhav\C#\OOP\SRPsolution\SRPSolutionApp\obj\Debug\SRPSolutionApp.pdb

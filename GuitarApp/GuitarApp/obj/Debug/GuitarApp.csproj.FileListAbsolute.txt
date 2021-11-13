@@ -1,0 +1,14 @@
+D:\swabhavTech\OPP\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe.config
+D:\swabhavTech\OPP\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe
+D:\swabhavTech\OPP\GuitarApp\GuitarApp\bin\Debug\GuitarApp.pdb
+D:\swabhavTech\OPP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.AssemblyReference.cache
+D:\swabhavTech\OPP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.CoreCompileInputs.cache
+D:\swabhavTech\OPP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.exe
+D:\swabhavTech\OPP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.pdb
+E:\Swabhav\C#\OOP\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe.config
+E:\Swabhav\C#\OOP\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe
+E:\Swabhav\C#\OOP\GuitarApp\GuitarApp\bin\Debug\GuitarApp.pdb
+E:\Swabhav\C#\OOP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.exe
+E:\Swabhav\C#\OOP\GuitarApp\GuitarApp\obj\Debug\GuitarApp.pdb

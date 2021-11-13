@@ -1,0 +1,7 @@
+C:\Users\Chinmay\Desktop\Swabhav_Tech\07.10.21\Assignment\PigGame\PigGame\bin\Debug\PigGame.exe.config
+C:\Users\Chinmay\Desktop\Swabhav_Tech\07.10.21\Assignment\PigGame\PigGame\bin\Debug\PigGame.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\07.10.21\Assignment\PigGame\PigGame\bin\Debug\PigGame.pdb
+C:\Users\Chinmay\Desktop\Swabhav_Tech\07.10.21\Assignment\PigGame\PigGame\obj\Debug\PigGame.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\Desktop\Swabhav_Tech\07.10.21\Assignment\PigGame\PigGame\obj\Debug\PigGame.exe
+C:\Users\Chinmay\Desktop\Swabhav_Tech\07.10.21\Assignment\PigGame\PigGame\obj\Debug\PigGame.pdb
+C:\Users\Chinmay\Desktop\Swabhav_Tech\07.10.21\Assignment\PigGame\PigGame\obj\Debug\PigGame.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Swabhav\21.10.21_Enums\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe.config
+E:\Swabhav\21.10.21_Enums\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe
+E:\Swabhav\21.10.21_Enums\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.pdb
+E:\Swabhav\21.10.21_Enums\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.AssemblyReference.cache
+E:\Swabhav\21.10.21_Enums\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\21.10.21_Enums\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.exe
+E:\Swabhav\21.10.21_Enums\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.pdb

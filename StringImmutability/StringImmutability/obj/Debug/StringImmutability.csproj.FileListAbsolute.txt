@@ -1,0 +1,7 @@
+C:\Users\Chinmay\source\repos\StringImmutability\StringImmutability\bin\Debug\StringImmutability.exe.config
+C:\Users\Chinmay\source\repos\StringImmutability\StringImmutability\bin\Debug\StringImmutability.exe
+C:\Users\Chinmay\source\repos\StringImmutability\StringImmutability\bin\Debug\StringImmutability.pdb
+C:\Users\Chinmay\source\repos\StringImmutability\StringImmutability\obj\Debug\StringImmutability.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\StringImmutability\StringImmutability\obj\Debug\StringImmutability.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\StringImmutability\StringImmutability\obj\Debug\StringImmutability.exe
+C:\Users\Chinmay\source\repos\StringImmutability\StringImmutability\obj\Debug\StringImmutability.pdb
