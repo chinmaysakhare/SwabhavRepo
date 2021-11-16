@@ -1,0 +1,6 @@
+E:\Swabhav\C#\OOP\IspSlnApp\IspViolationApp\bin\Debug\IspViolationApp.exe.config
+E:\Swabhav\C#\OOP\IspSlnApp\IspViolationApp\bin\Debug\IspViolationApp.exe
+E:\Swabhav\C#\OOP\IspSlnApp\IspViolationApp\bin\Debug\IspViolationApp.pdb
+E:\Swabhav\C#\OOP\IspSlnApp\IspViolationApp\obj\Debug\IspViolationApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\IspSlnApp\IspViolationApp\obj\Debug\IspViolationApp.exe
+E:\Swabhav\C#\OOP\IspSlnApp\IspViolationApp\obj\Debug\IspViolationApp.pdb

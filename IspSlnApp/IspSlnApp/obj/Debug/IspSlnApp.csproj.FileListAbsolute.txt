@@ -1,0 +1,7 @@
+E:\Swabhav\C#\OOP\IspSlnApp\IspSlnApp\bin\Debug\IspSlnApp.exe.config
+E:\Swabhav\C#\OOP\IspSlnApp\IspSlnApp\bin\Debug\IspSlnApp.exe
+E:\Swabhav\C#\OOP\IspSlnApp\IspSlnApp\bin\Debug\IspSlnApp.pdb
+E:\Swabhav\C#\OOP\IspSlnApp\IspSlnApp\obj\Debug\IspSlnApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\IspSlnApp\IspSlnApp\obj\Debug\IspSlnApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\IspSlnApp\IspSlnApp\obj\Debug\IspSlnApp.exe
+E:\Swabhav\C#\OOP\IspSlnApp\IspSlnApp\obj\Debug\IspSlnApp.pdb

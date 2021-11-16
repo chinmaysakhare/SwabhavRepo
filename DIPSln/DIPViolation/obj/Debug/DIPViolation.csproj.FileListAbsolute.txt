@@ -1,0 +1,6 @@
+E:\Swabhav\C#\OOP\DIPSln\DIPViolation\bin\Debug\DIPViolation.exe.config
+E:\Swabhav\C#\OOP\DIPSln\DIPViolation\bin\Debug\DIPViolation.exe
+E:\Swabhav\C#\OOP\DIPSln\DIPViolation\bin\Debug\DIPViolation.pdb
+E:\Swabhav\C#\OOP\DIPSln\DIPViolation\obj\Debug\DIPViolation.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\DIPSln\DIPViolation\obj\Debug\DIPViolation.exe
+E:\Swabhav\C#\OOP\DIPSln\DIPViolation\obj\Debug\DIPViolation.pdb
