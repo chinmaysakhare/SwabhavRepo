@@ -1,0 +1,10 @@
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\bin\Debug\SimpleFactoryApp.exe.config
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\bin\Debug\SimpleFactoryApp.exe
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\bin\Debug\SimpleFactoryApp.pdb
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\bin\Debug\SimpleFactoryLib.dll
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\bin\Debug\SimpleFactoryLib.pdb
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\obj\Debug\SimpleFactoryApp.csproj.AssemblyReference.cache
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\obj\Debug\SimpleFactoryApp.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\obj\Debug\SimpleFactoryApp.csproj.CopyComplete
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\obj\Debug\SimpleFactoryApp.exe
+E:\Swabhav\C#\DesignPattern\SimpleFactoryApp\obj\Debug\SimpleFactoryApp.pdb
