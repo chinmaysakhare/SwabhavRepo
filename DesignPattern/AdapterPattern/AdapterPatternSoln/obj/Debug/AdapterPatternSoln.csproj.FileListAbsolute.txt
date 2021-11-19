@@ -1,0 +1,13 @@
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\AdapterPatternSoln.exe.config
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\AdapterPatternSoln.exe
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\AdapterPatternSoln.pdb
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\FancyItemExternalLib.dll
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\ShoppingCartClientApp.exe
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\FancyItemExternalLib.pdb
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\ShoppingCartClientApp.pdb
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\bin\Debug\ShoppingCartClientApp.exe.config
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\obj\Debug\AdapterPatternSoln.csproj.AssemblyReference.cache
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\obj\Debug\AdapterPatternSoln.csproj.CoreCompileInputs.cache
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\obj\Debug\AdapterPatternSoln.csproj.CopyComplete
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\obj\Debug\AdapterPatternSoln.exe
+E:\Swabhav\C#\OOP\DesignPattern\AdapterPattern\AdapterPatternSoln\obj\Debug\AdapterPatternSoln.pdb
