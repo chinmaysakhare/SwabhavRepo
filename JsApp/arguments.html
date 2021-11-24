@@ -1,0 +1,32 @@
+<html>
+    <script>
+        function f1()
+        {
+            console.log(arguments.length);   
+        }
+        f1();
+        f1(1,2,3);
+        f1(1,2,3,4,{'Key':100});
+        f1(1,{'key':20},function(){console.log("Inside Function,Will be called back")});
+        function doSomething()
+        {
+            console.log("Do Something");   
+        }
+        f1(10,20,doSomething);
+        var arr=[10,20,30,function(){console.log("Function inside an array");}];
+        console.log(arr[0]);
+        arr[3]();
+        for(let i=0;i<arr.length;i++)
+        {
+            if(typeof arguments[i]=='function')
+            {
+                arguments[i]();
+            }
+            else
+            {
+                console.log(arguments[i]);
+            }
+        }
+
+    </script>
+</html>
